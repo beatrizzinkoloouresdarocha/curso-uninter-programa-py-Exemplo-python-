@@ -1,6 +1,5 @@
-def imprimir():
-    print("Alo mamae")
-    print("Alo papai")
+print("iniciando programa")
 
-imprimir()
-imprimir()
+idade=22
+idade+=1
+print(idade)
