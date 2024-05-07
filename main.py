@@ -1,7 +1,7 @@
-import pandas  as pd
+import pandas as pd
 
-d = {'Nome': ['Ana','Gabriel','Vanessa'], 'idade':[20 ,45,38], 'Altura':[1.56,1.78,1.73] }
+d = {'Nome': ['Ana', 'Gabriel', 'Vanessa'], 'idade': [20, 45, 38], 'Altura': [1.56, 1.78, 1.73]}
 
-dados = pd.DataFrame(data= d)
+dados = pd.DataFrame(data=d)
 
-print(dados ) 
+print(dados)
